@@ -1,0 +1,14 @@
+
+.btn {
+  background-color: #E3F0FB;
+  border-radius: 5px;
+  box-shadow: 5px 5px #888888;
+  padding: 18px;
+  margin: 15px;
+  display: inline-block;
+  width: 27.33%;
+  text-align: center;
+}
+.btn:active {
+  background-color: #bbbfc7;
+}
