@@ -29,7 +29,7 @@ div{
 .btn:active {
   background-color: #bbbfc7;
 }
-@media screen and (max-width:500px) {
+@media screen and (max-width:800px) {
   div {
     width: 100px;
     border-radius: 5px;
